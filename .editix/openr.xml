@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root>
+ <model id="openr">
+  <item id="openr-0">
+   <ui action="com.japisoft.editix.action.file.OpenAction" label="C:\Users\CptWubble\Desktop\Cycling Tour de France\Cycling-Tour-De-France.xml" param="C:\Users\CptWubble\Desktop\Cycling Tour de France\Cycling-Tour-De-France.xml" param3="UTF-8" param4="lastView=Source" icon="images/star_blue.png"/>
+  </item>
+
+ </model>
+
+</root>

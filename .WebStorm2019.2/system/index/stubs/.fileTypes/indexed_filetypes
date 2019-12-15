@@ -1,0 +1,26 @@
+1572946901602
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1572946901601
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,20￿1572946901600
+Vue.js￿stub:org.jetbrains.vuejs.lang.html.parser.VueFileElementType,1889786852￿1572946901599
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1572946901598
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901597
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1572946901596
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,23￿1572946901595
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901594
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901593
+Angular2Html￿stub:org.angular2.lang.html.Angular2HtmlFileElementType,1889786854￿1572946901592
+Jade￿stub:com.jetbrains.plugins.jade.psi.JadeFileElementType,2061605560￿1572946901591
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1572946901590
+Handlebars/Mustache￿stub:com.intellij.psi.tree.IStubFileElementType,2061605560￿1572946901589
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,2061605564￿1572946901588
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1572946901587
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901586
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901585
+EJS￿stub:com.jetbrains.lang.ejs.psi.EjsTokenTypes$EjsStubFileElementType,2061605561￿1572946901584
+Spacebars￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1572946901583
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901582
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1572946901581
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901580
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901579
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1572946901578
+HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1572946901577

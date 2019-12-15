@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postingArticlesNNTP", "postingArticlesNNTP\postingArticlesNNTP.csproj", "{0D2CBA82-01F9-4068-BBA1-D0B04356DADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2CBA82-01F9-4068-BBA1-D0B04356DADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2CBA82-01F9-4068-BBA1-D0B04356DADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2CBA82-01F9-4068-BBA1-D0B04356DADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2CBA82-01F9-4068-BBA1-D0B04356DADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8525C09-6234-46F3-9CF2-6B705069B1FD}
+	EndGlobalSection
+EndGlobal
